@@ -1,5 +1,6 @@
 require 'drb' 
-  
+
+class Controller 
   def msg(something)
     puts something
   end
